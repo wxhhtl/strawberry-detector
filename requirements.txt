@@ -1,0 +1,12 @@
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+PyQt5>=5.15.9
+numpy>=1.24.0
+Pillow>=10.0.0
+pandas>=2.0.0
+pyyaml>=6.0.0
+labelImg>=1.8.6
+streamlit
+ultralytics
+Pillow
+opencv-python-headless
